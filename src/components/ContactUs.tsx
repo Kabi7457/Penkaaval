@@ -21,7 +21,7 @@ const contactInfo = [
     icon: Instagram,
     label: 'Instagram',
     value: '@penkaaval',
-    href: 'https://instagram.com/penkaaval',
+    href: 'https://instagram.com/the_unbrand_pvt_ltd',
     color: 'from-pink-500/20 to-rose-500/20',
     iconColor: 'text-pink-400',
   },
